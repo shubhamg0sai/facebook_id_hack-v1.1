@@ -22,8 +22,8 @@ pkg install python2 -y
 
  pip2 install mechanize
 
-git clone https://github.com/ShuBhamg0sain/facebook_id_hack-v1
+git clone https://github.com/ShuBhamg0sain/facebook_id_hack-v1.1
 
-cd facebook_id_hack-v1
+cd facebook_id_hack-v1.1
 
 python2 S.py 
